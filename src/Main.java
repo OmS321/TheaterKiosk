@@ -11,7 +11,9 @@ public class Main
         age = input.nextInt();
 
         if (age >= 21)
+        {
             System.out.println("You will get a wristband. Enjoy the show!");
+        }
 
     }
 }
